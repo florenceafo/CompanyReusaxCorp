@@ -1,4 +1,4 @@
-package Reusax_Florence;
+package Reusax;
 
 // Task 1
 public class Employee {
